@@ -1,0 +1,15 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    mainClass = 'com.github.davidh455.calculator_wn25.Main'
+}
+
+dependencies {
+    // no external dependencies yet
+}
